@@ -1,0 +1,6 @@
+:root { color-scheme: light; --ink:#101215; --blue:#49c5e7; --line:#dce1e3; }
+* { box-sizing:border-box; }
+html { scroll-behavior:smooth; background:#fff; }
+body { margin:0; background:#fff; color:var(--ink); font-family:'DM Sans',sans-serif; }
+button { font:inherit; }
+#root { min-height:100vh; }
